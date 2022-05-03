@@ -1,0 +1,8 @@
+#include <iostream>
+#include <string>
+
+int main() {
+  std::string piyush = "Hello";
+  std::cout << piyush;
+  return 0;
+}
